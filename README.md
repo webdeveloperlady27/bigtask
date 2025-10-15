@@ -34,17 +34,16 @@ Users can add, cross out, and delete tasks easily.
 ## ⚙️ How to Run the Project
 
 ### 1️⃣ Clone the repository
-```bash
 git clone https://github.com/yourusername/todo-list-class.git
-
-2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 npm install
-3️⃣ Run the app
-bash
-Копіювати код
+### 3️⃣ Run the app
 npm start
+
 The app will open automatically at http://localhost:3000
-💡 Usage
+---
+
+## 💡 Usage
 
 Type your task into the input field
 
@@ -54,7 +53,10 @@ Click a task to mark it as completed
 
 Click DELETE to clear all tasks
 
-🧠 Code Overview
+---
+
+## 🧠 Code Overview
+
 Main Component: ToDoList.js
 
 state: stores userInput and toDoList
@@ -69,7 +71,9 @@ deleteItem(): clears all tasks
 
 render(): renders the form, list, and buttons
 
-🎨 Styling
+---
+
+## 🎨 Styling
 
 Add a ToDoList.css file for basic styles:
 
@@ -95,18 +99,18 @@ input {
   color: gray;
 }
 
-📸 Screenshot
+---
 
-(optional — add your own)
-
-
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 Viktoriia Adasynska
 🇨🇦 Sussex, New Brunswick
-📧 your.email@example.com
+📧 vilyamina@gmail.com
 
-📜 License
+---
+
+## 📜 License
 
 This project is licensed under the MIT License.
+
 
